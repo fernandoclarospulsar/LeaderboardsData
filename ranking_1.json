@@ -1,0 +1,2546 @@
+{
+  "startOfWeekTimestamp": 1689638400000,
+  "endOfWeekTimestamp": 1690156799999,
+  "startOfWeekDate": "Tue, 18 Jul 2023 00:00:00 GMT",
+  "endOfWeekDate": "Sun, 23 Jul 2023 23:59:59 GMT",
+  "events": [],
+  "ranking": [
+    {
+      "account_id": "WRiTkq6hWTfTC6sF2Hb2ui",
+      "nickname": "smoothStep#5226",
+      "score": 107179601.74513987,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 1445000,
+        "DID_UNIT_LEVEL_UP": 1180000,
+        "ENEMY_DAMAGE": 99422933.43600164,
+        "MINT_RESOURCE_COLLECTED": 4575831.307138253,
+        "NEST_DAMAGED": 555837.0019999752
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 3542128.2437581867,
+          "OGN": 189773.57946823383,
+          "MNR": 423319.33783265715,
+          "GAS": 420610.1460791753,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "BolterTurret": 203,
+          "TeslaTurret": 44,
+          "Factory": 34,
+          "Refinery_Organic": 8
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "SiegeTank": 119,
+          "Scorpion": 72,
+          "SpiderGatling": 45
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 99209744.60600165,
+          "AlienMommy": 213188.82999999952
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 555837.0019999752
+        }
+      },
+      "position": 1,
+      "previousPosition": -1,
+      "created_at": "2023-05-27T10:03:10.660Z",
+      "walletAddress": "0x833baf1f87f158798f062ecce615fa576481b12a"
+    },
+    {
+      "account_id": "T6FDkaTkcQNiPwZW3HprFZ",
+      "nickname": "NguyenDuy#2209",
+      "score": 52447544.31520207,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 980000,
+        "DID_UNIT_LEVEL_UP": 740000,
+        "ENEMY_DAMAGE": 47379015.42800058,
+        "MINT_RESOURCE_COLLECTED": 3159825.8312014905,
+        "NEST_DAMAGED": 188703.05600000013
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 2620882.828426269,
+          "OGN": 0,
+          "MNR": 208564.83644835948,
+          "GAS": 330378.1663268623,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "BolterTurret": 99,
+          "TeslaTurret": 34,
+          "Factory": 40,
+          "Refinery_Pulsar": 11,
+          "Refinery_Mineral": 12
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "SiegeTank": 95,
+          "MovableDepot": 15,
+          "SpiderGatling": 19,
+          "Scorpion": 8,
+          "Worker": 11
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 47298292.67200058,
+          "AlienMommy": 80722.75599999996
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 188703.05600000013
+        }
+      },
+      "position": 2,
+      "previousPosition": -1,
+      "created_at": "2023-04-16T04:02:01.221Z",
+      "walletAddress": "0xc842fa09be8d4133d72853ad42ffbec2ad016ede"
+    },
+    {
+      "account_id": "DcVgEDjqNQJNzorkp2Y3ZY",
+      "nickname": "devnull#7627",
+      "score": 38848216.07921289,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 855000,
+        "DID_UNIT_LEVEL_UP": 2920000,
+        "ENEMY_DAMAGE": 21440565.85900034,
+        "MINT_RESOURCE_COLLECTED": 12510655.603212547,
+        "NEST_DAMAGED": 1121994.6170000012
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 9829800.414634958,
+          "OGN": 465037.5064378605,
+          "MNR": 1137748.5729326496,
+          "GAS": 1078069.1092070788,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Factory": 60,
+          "Refinery_Organic": 6,
+          "Refinery_Mineral": 39,
+          "Refinery_Gas": 39,
+          "Refinery_Pulsar": 27
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "MovableDepot": 107,
+          "SiegeTank": 330,
+          "SpiderGatling": 37,
+          "Worker": 110
+        },
+        "ENEMY_DAMAGE": {
+          "AlienMommy": 510078.7699999987,
+          "Alien": 20930487.08900034
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 1121994.6170000012
+        }
+      },
+      "position": 3,
+      "previousPosition": -1,
+      "created_at": "2023-04-17T16:15:50.875Z",
+      "walletAddress": "0x7225cab5d1c1f0165fe8659466d4627508fff397"
+    },
+    {
+      "account_id": "9hq9KgNaVj2atTnv2FZzHj",
+      "nickname": "uniquehorn#6463",
+      "score": 27814089.06171862,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 105000,
+        "DID_UNIT_LEVEL_UP": 730000,
+        "ENEMY_DAMAGE": 24245759.173000447,
+        "MINT_RESOURCE_COLLECTED": 2352262.855718157,
+        "NEST_DAMAGED": 381067.03300001373
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 1389262.915163266,
+          "OGN": 68136.79901531746,
+          "MNR": 459705.96648694784,
+          "GAS": 435157.1750526254,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "TeslaTurret": 21
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 6,
+          "SpiderGatling": 70,
+          "Scorpion": 14,
+          "SiegeTank": 56
+        },
+        "ENEMY_DAMAGE": {
+          "AlienMommy": 156879.20499999996,
+          "Alien": 24088879.96800045
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 381067.03300001373
+        }
+      },
+      "position": 4,
+      "previousPosition": -1,
+      "created_at": "2023-04-13T15:38:08.589Z",
+      "walletAddress": "0x9d4133c308d497c6ee62f0ce3f43b167316f15ed"
+    },
+    {
+      "account_id": "Gz967iP4349Sj69zsj1qu5",
+      "nickname": "Musk2#0822",
+      "score": 14024297.00952613,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 860000,
+        "DID_UNIT_LEVEL_UP": 1330000,
+        "ENEMY_DAMAGE": 10889835.88700257,
+        "MINT_RESOURCE_COLLECTED": 869688.5005235594,
+        "NEST_DAMAGED": 74772.62200000019
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 545812.6238767331,
+          "OGN": 14257.688197345691,
+          "MNR": 160912.7198942355,
+          "GAS": 148705.46855524508,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Refinery_Organic": 3,
+          "Refinery_Gas": 61,
+          "Factory": 30,
+          "Refinery_Mineral": 54,
+          "TeslaTurret": 15,
+          "Refinery_Pulsar": 9
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "SpiderGatling": 72,
+          "SiegeTank": 26,
+          "MovableDepot": 83,
+          "Worker": 46,
+          "PulsarWorker": 23,
+          "Scorpion": 16
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 10865601.733002571,
+          "AlienMommy": 24234.154000000002
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 74772.62200000019
+        }
+      },
+      "position": 5,
+      "previousPosition": -1,
+      "created_at": "2023-04-27T19:21:22.407Z",
+      "walletAddress": "0x976578c6db6e6db3f8caa077ca6864b9c08e6cb7"
+    },
+    {
+      "account_id": "ANhQobP4fQr9s3kguyb39t",
+      "nickname": "ВуDela#8757",
+      "score": 11320771.049823053,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 1240000,
+        "DID_UNIT_LEVEL_UP": 4090000,
+        "ENEMY_DAMAGE": 4248451.77099991,
+        "MINT_RESOURCE_COLLECTED": 1392622.5868231275,
+        "NEST_DAMAGED": 349696.6920000147
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 1156217.0297123564,
+          "OGN": 12600.000187754642,
+          "MNR": 106514.10818566976,
+          "GAS": 117291.4487373467,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 39,
+          "Refinery_Mineral": 44,
+          "Refinery_Gas": 44,
+          "Refinery_Organic": 33,
+          "Factory": 44,
+          "Refinery_Pulsar": 44
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "MovableDepot": 70,
+          "PulsarWorker": 220,
+          "SiegeTank": 132,
+          "Worker": 220,
+          "SpiderGatling": 132,
+          "Scorpion": 44
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 4116380.9199999105,
+          "AlienMommy": 132070.851
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 349696.6920000147
+        }
+      },
+      "position": 6,
+      "previousPosition": -1,
+      "created_at": "2023-07-20T16:07:28.990Z",
+      "walletAddress": "0xb56127853a3be2e202ff840327baa72a4930de20"
+    },
+    {
+      "account_id": "V7TK1aeHTbvMqw7sxP9r8x",
+      "nickname": "RedTriangle#3980",
+      "score": 11202455.40194417,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 215000,
+        "DID_UNIT_LEVEL_UP": 360000,
+        "ENEMY_DAMAGE": 13180.097999999998,
+        "MINT_RESOURCE_COLLECTED": 10614275.30394417
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 9321465.285837853,
+          "OGN": 299.9986176,
+          "MNR": 627380.0095875871,
+          "GAS": 665130.009901128,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Refinery_Organic": 6,
+          "Factory": 15,
+          "Refinery_Mineral": 11,
+          "Refinery_Gas": 11
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "MovableDepot": 72
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 13180.097999999998
+        }
+      },
+      "position": 7,
+      "previousPosition": -1,
+      "created_at": "2023-04-24T09:59:24.760Z",
+      "walletAddress": "0x0b99d0308312a84b6bb7ca1f1986eb4289edab8f"
+    },
+    {
+      "account_id": "QhdChJ7ALURReJLuE8XFCo",
+      "nickname": "Doromion#6784",
+      "score": 9983769.34741135,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 970000,
+        "DID_UNIT_LEVEL_UP": 3260000,
+        "ENEMY_DAMAGE": 4109305.9810002726,
+        "MINT_RESOURCE_COLLECTED": 1516298.5904110614,
+        "NEST_DAMAGED": 128164.77600001635
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 1293380.639636404,
+          "OGN": 0,
+          "MNR": 97555.51550344346,
+          "GAS": 125362.43527121385,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 51,
+          "Refinery_Gas": 37,
+          "Refinery_Mineral": 35,
+          "Factory": 39,
+          "Refinery_Pulsar": 32
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 184,
+          "MovableDepot": 86,
+          "PulsarWorker": 175,
+          "SiegeTank": 75,
+          "SpiderGatling": 97,
+          "Scorpion": 35
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 4078458.8670002725,
+          "AlienMommy": 30847.113999999958
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 128164.77600001635
+        }
+      },
+      "position": 8,
+      "previousPosition": -1,
+      "created_at": "2023-07-20T19:36:33.675Z",
+      "walletAddress": "0xecc6dbb7a6dcc141cac732ddbb29f04a2b2cf993"
+    },
+    {
+      "account_id": "JLk2dzBhY37cRnZ2BAvype",
+      "nickname": "ItzStr8Luck#6691",
+      "score": 9629035.127283897,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 1030000,
+        "DID_UNIT_LEVEL_UP": 4205000,
+        "ENEMY_DAMAGE": 588962.5649999708,
+        "MINT_RESOURCE_COLLECTED": 3502510.989283899,
+        "NEST_DAMAGED": 302561.5730000296
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 3335959.450616264,
+          "OGN": 0,
+          "MNR": 69967.76827911293,
+          "GAS": 96583.77038852235,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Refinery_Gas": 28,
+          "Refinery_Pulsar": 18,
+          "BolterTurret": 16,
+          "Refinery_Organic": 54,
+          "Refinery_Mineral": 30,
+          "Factory": 49,
+          "TeslaTurret": 11
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 8,
+          "MovableDepot": 44,
+          "SiegeTank": 391,
+          "SpiderGatling": 395,
+          "Scorpion": 3
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 512361.67699997086,
+          "AlienMommy": 76600.88799999995
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 302561.5730000296
+        }
+      },
+      "position": 9,
+      "previousPosition": -1,
+      "created_at": "2023-04-12T21:59:03.611Z",
+      "walletAddress": "0x6309f3dae3ab1d63ff13bcfbf24be1311396002b"
+    },
+    {
+      "account_id": "MBUSBt3bcccMgS8UdTtgUD",
+      "nickname": "LazyGeneral#3891",
+      "score": 8733738.844628332,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 920000,
+        "DID_UNIT_LEVEL_UP": 2435000,
+        "ENEMY_DAMAGE": 3838559.9839999876,
+        "MINT_RESOURCE_COLLECTED": 1498983.6336283432,
+        "NEST_DAMAGED": 41195.22699999999
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 1300823.0786368873,
+          "OGN": 6750.000115942844,
+          "MNR": 92538.2597120775,
+          "GAS": 98872.29516343564,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 35,
+          "Refinery_Gas": 44,
+          "Refinery_Mineral": 35,
+          "Factory": 35,
+          "Refinery_Pulsar": 35
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 135,
+          "MovableDepot": 79,
+          "SpiderGatling": 84,
+          "SiegeTank": 27,
+          "Scorpion": 27,
+          "PulsarWorker": 135
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 3827664.7189999875,
+          "AlienMommy": 10895.265000000005
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 41195.22699999999
+        }
+      },
+      "position": 10,
+      "previousPosition": -1,
+      "created_at": "2023-07-13T02:20:34.656Z",
+      "walletAddress": "0x258207b0e020579725f02822919e153fc39872f8"
+    },
+    {
+      "account_id": "JgKieHPQ7LBRqQfpQhB6GK",
+      "nickname": "ayobami99#1460",
+      "score": 6989244.876223274,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 340000,
+        "DID_UNIT_LEVEL_UP": 3220000,
+        "ENEMY_DAMAGE": 1036998.3350000258,
+        "MINT_RESOURCE_COLLECTED": 1971210.1942232333,
+        "NEST_DAMAGED": 421036.3470000137
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 1872647.025789344,
+          "OGN": 0,
+          "MNR": 38499.00084137047,
+          "GAS": 60064.16759251881,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Refinery_Gas": 22,
+          "Refinery_Mineral": 15,
+          "Refinery_Organic": 2,
+          "Mothership": 18,
+          "Factory": 11
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 100,
+          "PulsarWorker": 154,
+          "Scorpion": 87,
+          "SpiderGatling": 69,
+          "SiegeTank": 232,
+          "MovableDepot": 2
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 863169.5780000259,
+          "AlienMommy": 173828.75699999987
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 421036.3470000137
+        }
+      },
+      "position": 11,
+      "previousPosition": -1,
+      "created_at": "2023-04-17T08:36:18.460Z",
+      "walletAddress": "0xc941b4bd79886898f93d679facf56d5fe2a43a61"
+    },
+    {
+      "account_id": "UJujjkD3Z6UWuT3Qa97FAJ",
+      "nickname": "banana#3016",
+      "score": 6741905.002273823,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 1080000,
+        "DID_UNIT_LEVEL_UP": 2895000,
+        "ENEMY_DAMAGE": 1741443.740000701,
+        "MINT_RESOURCE_COLLECTED": 964692.024273121,
+        "NEST_DAMAGED": 60769.23800000141
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 819571.6714270553,
+          "OGN": 3412.5000508502153,
+          "MNR": 60995.19198395592,
+          "GAS": 80712.66081125966,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 44,
+          "Refinery_Gas": 44,
+          "Refinery_Mineral": 44,
+          "Factory": 35,
+          "Refinery_Pulsar": 35,
+          "Refinery_Organic": 14
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 175,
+          "MovableDepot": 54,
+          "SiegeTank": 35,
+          "PulsarWorker": 175,
+          "SpiderGatling": 105,
+          "Scorpion": 35
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 1722592.709000701,
+          "AlienMommy": 18851.031000000014
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 60769.23800000141
+        }
+      },
+      "position": 12,
+      "previousPosition": -1,
+      "created_at": "2023-07-20T18:43:34.575Z",
+      "walletAddress": "0x9c6fa2660c1bb2b5c57dac85fdfaccac1104419c"
+    },
+    {
+      "account_id": "3Kcc69Tx1Phk14SF6z1UvS",
+      "nickname": "Dodo#7588",
+      "score": 6082160.6997494325,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 975000,
+        "DID_UNIT_LEVEL_UP": 3595000,
+        "ENEMY_DAMAGE": 751184.3849999893,
+        "MINT_RESOURCE_COLLECTED": 477465.7257494413,
+        "NEST_DAMAGED": 283510.58900000143
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 258420.99347216875,
+          "OGN": 22650.000337511323,
+          "MNR": 78702.08450506178,
+          "GAS": 117692.64743469948,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Refinery_Gas": 37,
+          "Factory": 39,
+          "Mothership": 31,
+          "Refinery_Mineral": 31,
+          "TeslaTurret": 9,
+          "Refinery_Organic": 30,
+          "Refinery_Pulsar": 18
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "SiegeTank": 220,
+          "Scorpion": 32,
+          "SpiderGatling": 28,
+          "Worker": 364,
+          "MovableDepot": 5,
+          "PulsarWorker": 70
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 639932.8429999894,
+          "AlienMommy": 111251.54199999986
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 283510.58900000143
+        }
+      },
+      "position": 13,
+      "previousPosition": -1,
+      "created_at": "2023-04-16T09:23:30.726Z",
+      "walletAddress": "0xf9889994238142bd95d447d53f9e21429d7cde64"
+    },
+    {
+      "account_id": "TBCkvvXb4PNQrVSvzcLGou",
+      "nickname": "tyreal#8990",
+      "score": 6061900.1890447,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 275000,
+        "DID_UNIT_LEVEL_UP": 175000,
+        "MINT_RESOURCE_COLLECTED": 5611900.1890447
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 5378605.320326456,
+          "OGN": 0,
+          "MNR": 131233.12866720956,
+          "GAS": 102061.74005103447,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Factory": 35,
+          "Refinery_Gas": 10,
+          "Refinery_Mineral": 10
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "MovableDepot": 35
+        }
+      },
+      "position": 14,
+      "previousPosition": -1,
+      "created_at": "2023-04-17T15:48:21.433Z",
+      "walletAddress": "0x4fbfe1874d59ce3469fa5e31e4e5144eecd4e1bc"
+    },
+    {
+      "account_id": "DjHHQad4urmF2bGVian48E",
+      "nickname": "vAnder#1751",
+      "score": 5722536.1739438055,
+      "scores": {
+        "DID_UNIT_LEVEL_UP": 20000,
+        "ENEMY_DAMAGE": 4825438.9080000585,
+        "MINT_RESOURCE_COLLECTED": 877097.2659437471
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 839422.496,
+          "OGN": 0,
+          "MNR": 23205.999000448304,
+          "GAS": 14468.770943298796,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_UNIT_LEVEL_UP": {
+          "Scorpion": 4
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 4825364.581000059,
+          "AlienMommy": 74.327
+        }
+      },
+      "position": 15,
+      "previousPosition": -1,
+      "created_at": "2023-05-30T08:24:16.035Z",
+      "walletAddress": "0x5340c81ea477ccd1d03d97620097f28658ee50b6"
+    },
+    {
+      "account_id": "DvLHUcr4U3keKPuXXFmads",
+      "nickname": "AzZer#4086",
+      "score": 5293525.587195247,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 395000,
+        "DID_UNIT_LEVEL_UP": 2245000,
+        "ENEMY_DAMAGE": 167655.85600000844,
+        "MINT_RESOURCE_COLLECTED": 2395719.1011952353,
+        "NEST_DAMAGED": 90150.63000000398
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 2280061.8366817385,
+          "OGN": 5250.000078231101,
+          "MNR": 59494.75060490891,
+          "GAS": 50912.51383035695,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Factory": 57,
+          "BolterTurret": 11,
+          "TeslaTurret": 11
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "MovableDepot": 57,
+          "SpiderGatling": 195,
+          "Scorpion": 68,
+          "SiegeTank": 129
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 160655.08200000843,
+          "AlienMommy": 7000.773999999999
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 90150.63000000398
+        }
+      },
+      "position": 16,
+      "previousPosition": -1,
+      "created_at": "2023-04-17T03:10:31.296Z",
+      "walletAddress": "0xb34b9c90f7a0b5c9620491b566a506b8a1e644cc"
+    },
+    {
+      "account_id": "A7MXUhJnxMLv1UzL3Ctayd",
+      "nickname": "Prompt#0001",
+      "score": 4996573.838736854,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 345000,
+        "DID_UNIT_LEVEL_UP": 2715000,
+        "ENEMY_DAMAGE": 206196.13400000206,
+        "MINT_RESOURCE_COLLECTED": 1632355.0547368485,
+        "NEST_DAMAGED": 98022.65000000302
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 1552151.2672927936,
+          "OGN": 0,
+          "MNR": 54168.83051888786,
+          "GAS": 26034.956925167076,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Refinery_Organic": 14,
+          "Refinery_Gas": 24,
+          "Refinery_Mineral": 22,
+          "Factory": 9
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "SiegeTank": 150,
+          "Worker": 9,
+          "Scorpion": 83,
+          "SpiderGatling": 179,
+          "PulsarWorker": 87,
+          "MovableDepot": 35
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 177260.38300000207,
+          "AlienMommy": 28935.75099999999
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 98022.65000000302
+        }
+      },
+      "position": 17,
+      "previousPosition": -1,
+      "created_at": "2023-04-10T08:45:17.986Z",
+      "walletAddress": "0xd73aa9c4e4d1ab2a3365de07d5740b53fa856881"
+    },
+    {
+      "account_id": "DqDSBgDqssG5E7GHxZjuwo",
+      "nickname": "Jomari#9977",
+      "score": 4444258.090692168,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 290000,
+        "DID_UNIT_LEVEL_UP": 65000,
+        "MINT_RESOURCE_COLLECTED": 4089258.090692168
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 3614178.057393516,
+          "OGN": 0,
+          "MNR": 216769.5631211808,
+          "GAS": 258310.47017747094,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Factory": 27,
+          "Refinery_Pulsar": 20,
+          "Refinery_Gas": 11
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "SpiderGatling": 13
+        }
+      },
+      "position": 18,
+      "previousPosition": -1,
+      "created_at": "2023-04-16T05:48:24.968Z",
+      "walletAddress": "0xf5f08ba7f46e2a86b5ef3bfd56c2097c9f4276d7"
+    },
+    {
+      "account_id": "HHWXMf3ojehtCC1jr815Wo",
+      "nickname": "DevonILV#8227",
+      "score": 4185077.592375478,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 685000,
+        "DID_UNIT_LEVEL_UP": 1735000,
+        "ENEMY_DAMAGE": 421099.23399999837,
+        "MINT_RESOURCE_COLLECTED": 1181492.2413754768,
+        "NEST_DAMAGED": 162486.1170000026
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 1089059.448263797,
+          "OGN": 7500.000111758715,
+          "MNR": 37868.29229761485,
+          "GAS": 47064.50070230635,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 27,
+          "Refinery_Mineral": 27,
+          "Refinery_Gas": 29,
+          "Factory": 27,
+          "Refinery_Pulsar": 27
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 100,
+          "MovableDepot": 47,
+          "SpiderGatling": 60,
+          "SiegeTank": 20,
+          "Scorpion": 20,
+          "PulsarWorker": 100
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 351907.97899999836,
+          "AlienMommy": 69191.25500000002
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 162486.1170000026
+        }
+      },
+      "position": 19,
+      "previousPosition": -1,
+      "created_at": "2023-07-11T19:27:33.346Z",
+      "walletAddress": "0xcf20f8338b5fd0ae523a328782158747eb84649c"
+    },
+    {
+      "account_id": "CchecggemWUaD9sivjjCMk",
+      "nickname": "xXEagleRisingXx#2655",
+      "score": 3560876.1977485754,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 525000,
+        "DID_UNIT_LEVEL_UP": 630000,
+        "ENEMY_DAMAGE": 246311.30499999993,
+        "MINT_RESOURCE_COLLECTED": 2069361.3857485754,
+        "NEST_DAMAGED": 90203.50699999998
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 1550699.0567114472,
+          "OGN": 70547.50070868102,
+          "MNR": 218341.83662995478,
+          "GAS": 229772.9916984922,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Refinery_Organic": 24,
+          "Factory": 24,
+          "Refinery_Gas": 23,
+          "Refinery_Mineral": 23,
+          "Refinery_Pulsar": 11
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "SpiderGatling": 68,
+          "MovableDepot": 40,
+          "Scorpion": 18
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 204654.40399999992,
+          "AlienMommy": 41656.901000000005
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 90203.50699999998
+        }
+      },
+      "position": 20,
+      "previousPosition": -1,
+      "created_at": "2023-04-17T00:54:51.872Z",
+      "walletAddress": "0xd7b06606bfdc647aa170358e40d2721eabf5b3a3"
+    },
+    {
+      "account_id": "GAKwB26j5Du5om7dSYT1pc",
+      "nickname": "Can#2351",
+      "score": 3547265.521970001,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 460000,
+        "DID_UNIT_LEVEL_UP": 1420000,
+        "ENEMY_DAMAGE": 1235570.5709996882,
+        "MINT_RESOURCE_COLLECTED": 189149.4249702975,
+        "NEST_DAMAGED": 242545.52600001512
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 60426.5686521848,
+          "OGN": 0,
+          "MNR": 79846.5011520436,
+          "GAS": 48876.35516606912,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Refinery_Mineral": 20,
+          "Refinery_Gas": 20,
+          "Factory": 14,
+          "Mothership": 18,
+          "Refinery_Pulsar": 20
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "SpiderGatling": 42,
+          "SiegeTank": 28,
+          "MovableDepot": 70,
+          "Scorpion": 14,
+          "Worker": 84,
+          "PulsarWorker": 46
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 1152502.4339996884,
+          "AlienMommy": 83068.13699999996
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 242545.52600001512
+        }
+      },
+      "position": 21,
+      "previousPosition": -1,
+      "created_at": "2023-04-13T18:47:08.416Z",
+      "walletAddress": "0xecb25d097c15f678a62e5d430b013db0fec6d2ef"
+    },
+    {
+      "account_id": "XD8GLdZDVn2tJsN7HK7QRP",
+      "nickname": "LoK0o#0378",
+      "score": 3262823.13365186,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 525000,
+        "DID_UNIT_LEVEL_UP": 1470000,
+        "ENEMY_DAMAGE": 68721.22000000026,
+        "MINT_RESOURCE_COLLECTED": 1153934.5186518603,
+        "NEST_DAMAGED": 45167.394999999655
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 1011580.8998260252,
+          "OGN": 0,
+          "MNR": 59444.43423798314,
+          "GAS": 82909.18458785185,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 20,
+          "Refinery_Gas": 20,
+          "Refinery_Mineral": 20,
+          "Factory": 20,
+          "Refinery_Pulsar": 20,
+          "TeslaTurret": 5
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 70,
+          "PulsarWorker": 70,
+          "MovableDepot": 70,
+          "SiegeTank": 28,
+          "Scorpion": 14,
+          "SpiderGatling": 42
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 60467.89900000025,
+          "AlienMommy": 8253.321000000004
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 45167.394999999655
+        }
+      },
+      "position": 22,
+      "previousPosition": -1,
+      "created_at": "2023-07-17T09:52:41.959Z",
+      "walletAddress": "0x35025f1ecf44d697fe78b946db832740f0816571"
+    },
+    {
+      "account_id": "Mkcz6y7zs7AMdGaJfBhZmS",
+      "nickname": "Noxby#4208",
+      "score": 2869619.706841094,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 360000,
+        "DID_UNIT_LEVEL_UP": 1535000,
+        "ENEMY_DAMAGE": 67528.97199999966,
+        "MINT_RESOURCE_COLLECTED": 892076.5748410943,
+        "NEST_DAMAGED": 15014.160000000005
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 732021.0534425875,
+          "OGN": 0,
+          "MNR": 77624.20123272846,
+          "GAS": 82431.32016577836,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Refinery_Gas": 23,
+          "Refinery_Mineral": 15,
+          "Factory": 13,
+          "Refinery_Pulsar": 13,
+          "Mothership": 8
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "PulsarWorker": 125,
+          "SiegeTank": 22,
+          "Scorpion": 27,
+          "SpiderGatling": 63,
+          "MovableDepot": 70
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 60978.43099999965,
+          "AlienMommy": 6550.541000000008
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 15014.160000000005
+        }
+      },
+      "position": 23,
+      "previousPosition": -1,
+      "created_at": "2023-04-29T15:27:15.489Z",
+      "walletAddress": "0x87c8ca6ee6971ffb2515267ea4667d54b0f7a76e"
+    },
+    {
+      "account_id": "3dTCRF7B2kiqbonkEqDtdq",
+      "nickname": "Draak#7143",
+      "score": 2747400.6923839245,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 520000,
+        "DID_UNIT_LEVEL_UP": 245000,
+        "ENEMY_DAMAGE": 64945.97000000001,
+        "MINT_RESOURCE_COLLECTED": 1895630.7403839245,
+        "NEST_DAMAGED": 21823.981999999996
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 1431127.9464061686,
+          "OGN": 0,
+          "MNR": 244216.69049772003,
+          "GAS": 220286.103480036,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Factory": 33,
+          "Mothership": 23,
+          "BolterTurret": 19,
+          "TeslaTurret": 20,
+          "Refinery_Organic": 9
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "SpiderGatling": 23,
+          "SiegeTank": 17,
+          "Scorpion": 9
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 55087.013000000006,
+          "AlienMommy": 9858.957
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 21823.981999999996
+        }
+      },
+      "position": 24,
+      "previousPosition": -1,
+      "created_at": "2023-04-23T16:21:55.346Z",
+      "walletAddress": "0x8ef2cce18ac5aeca622f160c348b437b96a0d679"
+    },
+    {
+      "account_id": "CUnVbTHYJ6CP9qcb6Ur733",
+      "nickname": "CryptechFPS#3253",
+      "score": 2655247.3867022274,
+      "scores": {
+        "DID_UNIT_LEVEL_UP": 270000,
+        "ENEMY_DAMAGE": 95034.16500000001,
+        "MINT_RESOURCE_COLLECTED": 2260130.569702227,
+        "NEST_DAMAGED": 30082.652000000013
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 2216753.5693941964,
+          "OGN": 0,
+          "MNR": 26310.00020442032,
+          "GAS": 17067.00010361077,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_UNIT_LEVEL_UP": {
+          "SiegeTank": 30,
+          "Scorpion": 13,
+          "SpiderGatling": 11
+        },
+        "ENEMY_DAMAGE": {
+          "AlienMommy": 13904.629,
+          "Alien": 81129.53600000001
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 30082.652000000013
+        }
+      },
+      "position": 25,
+      "previousPosition": -1,
+      "created_at": "2023-04-17T09:45:13.992Z",
+      "walletAddress": "0xff08f103a63a653d518bd9f8a837b795c6f110c3"
+    },
+    {
+      "account_id": "WqxaJ4ePkoC7pZH1pe8t75",
+      "nickname": "sonampts#3602",
+      "score": 2227847.2314276015,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 55000,
+        "DID_UNIT_LEVEL_UP": 30000,
+        "MINT_RESOURCE_COLLECTED": 2142847.2314276015
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 2123021.9444569377,
+          "OGN": 0,
+          "MNR": 8584.647519383798,
+          "GAS": 11240.639451280014,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Refinery_Pulsar": 5,
+          "Mothership": 6
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "MovableDepot": 6
+        }
+      },
+      "position": 26,
+      "previousPosition": -1,
+      "created_at": "2023-04-25T06:22:46.755Z",
+      "walletAddress": "0x0be86ea6b778411b386fde295e17041d81eb6303"
+    },
+    {
+      "account_id": "DXY2N6fyHhZzwVLKS9FQSE",
+      "nickname": "ZAINCYPHER#3738",
+      "score": 2215489.3732241997,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 40000,
+        "DID_UNIT_LEVEL_UP": 215000,
+        "MINT_RESOURCE_COLLECTED": 1960489.3732241995
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 1900000,
+          "OGN": 0,
+          "MNR": 33382.28954167225,
+          "GAS": 27107.0836825274,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 8
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "SpiderGatling": 18,
+          "SiegeTank": 6,
+          "MovableDepot": 12,
+          "PulsarWorker": 7
+        }
+      },
+      "position": 27,
+      "previousPosition": -1,
+      "created_at": "2023-06-08T14:55:31.099Z",
+      "walletAddress": "0xe8a33adbc1fa881096fe9ae9e28ad182d75dedb4"
+    },
+    {
+      "account_id": "AXD4DFSBzzz8p1SZ8jyaWR",
+      "nickname": "heavenbg1001#9405",
+      "score": 2089794.348658415,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 560000,
+        "DID_UNIT_LEVEL_UP": 1385000,
+        "ENEMY_DAMAGE": 62205.98100000025,
+        "MINT_RESOURCE_COLLECTED": 57939.50065841411,
+        "NEST_DAMAGED": 24648.867000000893
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 0,
+          "OGN": 0,
+          "MNR": 30939.50028000124,
+          "GAS": 27000.000378412868,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 27,
+          "Refinery_Mineral": 20,
+          "Refinery_Gas": 20,
+          "Factory": 25,
+          "Refinery_Pulsar": 20
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 70,
+          "SiegeTank": 14,
+          "PulsarWorker": 70,
+          "MovableDepot": 67,
+          "Scorpion": 14,
+          "SpiderGatling": 42
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 55133.25400000025,
+          "AlienMommy": 7072.726999999999
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 24648.867000000893
+        }
+      },
+      "position": 28,
+      "previousPosition": -1,
+      "created_at": "2023-07-20T04:58:01.939Z",
+      "walletAddress": "0xd93ab5e54ab00d575cf3fc56b990ef420462a8f1"
+    },
+    {
+      "account_id": "Au6w3LNj52TjyWPNiGrspm",
+      "nickname": "PlayerOne#6379",
+      "score": 2076440.0004366192,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 110000,
+        "MINT_RESOURCE_COLLECTED": 1966440.0004366192
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 1900000,
+          "OGN": 0,
+          "MNR": 33220.00021811358,
+          "GAS": 33220.00021850548,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Refinery_Gas": 11,
+          "Refinery_Mineral": 11
+        }
+      },
+      "position": 29,
+      "previousPosition": -1,
+      "created_at": "2023-04-16T03:52:03.205Z",
+      "walletAddress": "0x4f92f61f3236a498d6d5f4d852215a0d53de6528"
+    },
+    {
+      "account_id": "DGYmCTHiJUWFz7ivonqZNM",
+      "nickname": "Diablo#1862",
+      "score": 1977354.4027053493,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 510000,
+        "DID_UNIT_LEVEL_UP": 510000,
+        "ENEMY_DAMAGE": 26918.288000000015,
+        "MINT_RESOURCE_COLLECTED": 910017.7827053493,
+        "NEST_DAMAGED": 20418.332000000002
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 420625.4479268613,
+          "OGN": 3150.0000469386605,
+          "MNR": 240258.0629468295,
+          "GAS": 245984.27178471975,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Refinery_Gas": 23,
+          "Refinery_Mineral": 23,
+          "Factory": 11,
+          "Mothership": 12,
+          "Refinery_Organic": 22,
+          "Refinery_Pulsar": 11
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "SpiderGatling": 44,
+          "MovableDepot": 42,
+          "Scorpion": 8,
+          "SiegeTank": 8
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 17697.33500000001,
+          "AlienMommy": 9220.953000000003
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 20418.332000000002
+        }
+      },
+      "position": 30,
+      "previousPosition": -1,
+      "created_at": "2023-04-17T01:18:39.573Z",
+      "walletAddress": "0xb2fd1f9c2665de10dd254ee89460075b7c2eddd0"
+    },
+    {
+      "account_id": "4Pigv7UMjqZRb2m7eiyKQf",
+      "nickname": "TradingAloha#6442",
+      "score": 1916529.1066019516,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 440000,
+        "DID_UNIT_LEVEL_UP": 720000,
+        "ENEMY_DAMAGE": 6442.553999999998,
+        "MINT_RESOURCE_COLLECTED": 743609.8976019516,
+        "NEST_DAMAGED": 6476.655000000004
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 597422.1245980763,
+          "OGN": 0,
+          "MNR": 71457.9344302999,
+          "GAS": 74729.83857357531,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 20,
+          "Refinery_Gas": 20,
+          "Refinery_Mineral": 20,
+          "Factory": 14,
+          "Refinery_Pulsar": 14
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 45,
+          "SiegeTank": 9,
+          "PulsarWorker": 36,
+          "MovableDepot": 32,
+          "SpiderGatling": 13,
+          "Scorpion": 9
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 6348.953999999998,
+          "AlienMommy": 93.59999999999997
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 6476.655000000004
+        }
+      },
+      "position": 31,
+      "previousPosition": -1,
+      "created_at": "2023-06-30T18:45:02.536Z",
+      "walletAddress": "0xf5a79c88b82bee71307fcfbb18de8696e0f31862"
+    },
+    {
+      "account_id": "JJxQJYZPRf957EumSWPAGo",
+      "nickname": "Eelaar#1057",
+      "score": 1632508.83713148,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 85000,
+        "MINT_RESOURCE_COLLECTED": 1547359.07113148,
+        "NEST_DAMAGED": 149.766
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 1225491.5574165622,
+          "OGN": 0,
+          "MNR": 160052.3443993017,
+          "GAS": 161815.16931561596,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Factory": 15,
+          "Refinery_Gas": 2
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 149.766
+        }
+      },
+      "position": 32,
+      "previousPosition": -1,
+      "created_at": "2023-04-23T14:55:13.397Z",
+      "walletAddress": "0xac8561ceefc8f50e555d5e796d97d8fe9562a176"
+    },
+    {
+      "account_id": "QQHFzxhRJsx3KbWWMppyoY",
+      "nickname": "Tugba#8943",
+      "score": 1455784.8077335844,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 365000,
+        "DID_UNIT_LEVEL_UP": 690000,
+        "ENEMY_DAMAGE": 68253.97699999996,
+        "MINT_RESOURCE_COLLECTED": 317775.2327335845,
+        "NEST_DAMAGED": 14755.598000000004
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 222470.38196951797,
+          "OGN": 0,
+          "MNR": 71012.01706874171,
+          "GAS": 24292.833695324753,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 17,
+          "Refinery_Gas": 14,
+          "Refinery_Mineral": 14,
+          "Factory": 14,
+          "Refinery_Pulsar": 14
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 45,
+          "PulsarWorker": 45,
+          "MovableDepot": 7,
+          "SpiderGatling": 23,
+          "SiegeTank": 9,
+          "Scorpion": 9
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 61573.07299999996,
+          "AlienMommy": 6680.904000000002
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 14755.598000000004
+        }
+      },
+      "position": 33,
+      "previousPosition": -1,
+      "created_at": "2023-07-19T20:54:29.181Z",
+      "walletAddress": "0x853c6b1192adbd6a03884691e385caddebd122ec"
+    },
+    {
+      "account_id": "6iBEMu4g4A1EXRkYUanpwE",
+      "nickname": "dMt#1894",
+      "score": 1416000.8924834249,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 390000,
+        "DID_UNIT_LEVEL_UP": 960000,
+        "ENEMY_DAMAGE": 2436.3950000000013,
+        "MINT_RESOURCE_COLLECTED": 60585.16548342494,
+        "NEST_DAMAGED": 2979.3320000000017
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 51755.99868519344,
+          "OGN": 0,
+          "MNR": 3940.000058710574,
+          "GAS": 4889.166739520927,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 16,
+          "Refinery_Mineral": 16,
+          "Refinery_Gas": 16,
+          "Factory": 16,
+          "Refinery_Pulsar": 14
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 72,
+          "PulsarWorker": 70,
+          "MovableDepot": 5,
+          "Scorpion": 5,
+          "SpiderGatling": 33,
+          "SiegeTank": 7
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 2390.4110000000014,
+          "AlienMommy": 45.984
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 2979.3320000000017
+        }
+      },
+      "position": 34,
+      "previousPosition": -1,
+      "created_at": "2023-07-11T19:15:27.024Z",
+      "walletAddress": "0x1b008f76eab0a89436cf3e8dcfa73afd6a32175f"
+    },
+    {
+      "account_id": "BhR3YsLaZLDvsCYqejxH7H",
+      "nickname": "MrGhost1710#4380",
+      "score": 1403499.016106166,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 40000,
+        "MINT_RESOURCE_COLLECTED": 1363499.016106166
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 1346140.05,
+          "OGN": 0,
+          "MNR": 11037.317615457236,
+          "GAS": 6321.648490708586,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Refinery_Gas": 8
+        }
+      },
+      "position": 35,
+      "previousPosition": -1,
+      "created_at": "2023-04-23T19:53:22.110Z",
+      "walletAddress": "0x9d192a4ea5bea904aaff848442a2292fbff96673"
+    },
+    {
+      "account_id": "8JsTwDxD67BWdPbWkE62VD",
+      "nickname": "Munchie#5484",
+      "score": 1332966.3952556476,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 320000,
+        "DID_UNIT_LEVEL_UP": 940000,
+        "ENEMY_DAMAGE": 28833.632999999998,
+        "MINT_RESOURCE_COLLECTED": 29763.0522556477,
+        "NEST_DAMAGED": 14369.710000000005
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 269.999993179799,
+          "OGN": 0,
+          "MNR": 14645.552040198912,
+          "GAS": 14847.500222268991,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 20,
+          "Refinery_Mineral": 14,
+          "Refinery_Gas": 14,
+          "Factory": 14,
+          "Refinery_Pulsar": 2
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 88,
+          "PulsarWorker": 2,
+          "SpiderGatling": 65,
+          "Scorpion": 19,
+          "SiegeTank": 14
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 21974.056999999993,
+          "AlienMommy": 6859.576000000004
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 14369.710000000005
+        }
+      },
+      "position": 36,
+      "previousPosition": -1,
+      "created_at": "2023-07-17T18:12:50.839Z",
+      "walletAddress": "0x4a71051004284bd7a9b2707b2d2dc113927bdaed"
+    },
+    {
+      "account_id": "RGxkTRC3YZP6TAtCanbQJ7",
+      "nickname": "Tuannlkt#1018",
+      "score": 1171701.316402237,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 605000,
+        "DID_UNIT_LEVEL_UP": 555000,
+        "MINT_RESOURCE_COLLECTED": 11701.316402236986
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 10917.916390563416,
+          "OGN": 0,
+          "MNR": 783.4000116735695,
+          "GAS": 0,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 27,
+          "Refinery_Mineral": 27,
+          "Refinery_Gas": 27,
+          "Factory": 20,
+          "Refinery_Pulsar": 20
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 52,
+          "PulsarWorker": 40,
+          "SpiderGatling": 7,
+          "Scorpion": 2,
+          "SiegeTank": 5,
+          "MovableDepot": 5
+        }
+      },
+      "position": 37,
+      "previousPosition": -1,
+      "created_at": "2023-07-12T09:09:45.010Z",
+      "walletAddress": "0xbbaabf26a084ffbe53d4579c02afd2d5d9468ce8"
+    },
+    {
+      "account_id": "MSq4BnogxsUmGVScK3Gu6f",
+      "nickname": "kyliansunn#6343",
+      "score": 1138515.4645149456,
+      "scores": {
+        "DID_UNIT_LEVEL_UP": 35000,
+        "MINT_RESOURCE_COLLECTED": 1103515.4645149456
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 1012802.13,
+          "OGN": 0,
+          "MNR": 50880.000631511204,
+          "GAS": 39833.33388343453,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_UNIT_LEVEL_UP": {
+          "MovableDepot": 7
+        }
+      },
+      "position": 38,
+      "previousPosition": -1,
+      "created_at": "2023-05-17T05:32:42.827Z",
+      "walletAddress": "0xbc8bfb4afb4779d2b620bf8c68a4f3b086b8d996"
+    },
+    {
+      "account_id": "PPWuTbXJ8AeAZzZmBrv8ck",
+      "nickname": "Luci#0163",
+      "score": 1070484.8655254692,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 180000,
+        "DID_UNIT_LEVEL_UP": 465000,
+        "ENEMY_DAMAGE": 77431.45199999999,
+        "MINT_RESOURCE_COLLECTED": 313771.1905254691,
+        "NEST_DAMAGED": 34282.22300000004
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 215493.50707441187,
+          "OGN": 0,
+          "MNR": 57247.33356435255,
+          "GAS": 41030.349886704666,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Factory": 15,
+          "Mothership": 7,
+          "Refinery_Gas": 7,
+          "Refinery_Mineral": 7
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "SpiderGatling": 25,
+          "SiegeTank": 11,
+          "MovableDepot": 42,
+          "Scorpion": 15
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 62858.558,
+          "AlienMommy": 14572.893999999998
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 34282.22300000004
+        }
+      },
+      "position": 39,
+      "previousPosition": -1,
+      "created_at": "2023-04-28T18:37:04.787Z",
+      "walletAddress": "0xd6e86eb17a8edcc0b264a584c2ace2547ea963fc"
+    },
+    {
+      "account_id": "7vi59AtVUZcDpNZYn9JXtB",
+      "nickname": "BoogieB#9067",
+      "score": 887636.5030796544,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 125000,
+        "DID_UNIT_LEVEL_UP": 125000,
+        "MINT_RESOURCE_COLLECTED": 637636.5030796544
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 547970.2572559499,
+          "OGN": 0,
+          "MNR": 61591.667505930316,
+          "GAS": 28074.57831777423,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Refinery_Organic": 5,
+          "Refinery_Gas": 10,
+          "Refinery_Pulsar": 10
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "MovableDepot": 16,
+          "PulsarWorker": 9
+        }
+      },
+      "position": 40,
+      "previousPosition": -1,
+      "created_at": "2023-06-10T17:39:37.144Z",
+      "walletAddress": "0xb6f7b876bd4f8dbb20102e48de14fa149ad249fe"
+    },
+    {
+      "account_id": "MMUu9UoAQVs37HUDGykyHE",
+      "nickname": "cloudr3n#3357",
+      "score": 853131.4451158404,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 120000,
+        "DID_UNIT_LEVEL_UP": 620000,
+        "ENEMY_DAMAGE": 76379.79199999996,
+        "MINT_RESOURCE_COLLECTED": 29868.66711584048,
+        "NEST_DAMAGED": 6882.985999999997
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 0,
+          "OGN": 0,
+          "MNR": 15347.000230736116,
+          "GAS": 14521.666885104361,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 9,
+          "Refinery_Gas": 5,
+          "Refinery_Mineral": 5,
+          "Factory": 5
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 40,
+          "MovableDepot": 42,
+          "Scorpion": 2,
+          "SpiderGatling": 10,
+          "SiegeTank": 5,
+          "PulsarWorker": 25
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 73380.68399999996,
+          "AlienMommy": 2999.1079999999984
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 6882.985999999997
+        }
+      },
+      "position": 41,
+      "previousPosition": -1,
+      "created_at": "2023-07-16T15:28:59.186Z",
+      "walletAddress": "0x1c5c01027a79f51067eaab7db83ada45008debac"
+    },
+    {
+      "account_id": "Uk9T7xqjcW3WdnxS1U8TEN",
+      "nickname": "Beastlorion#8432",
+      "score": 833396.6505526592,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 230000,
+        "DID_UNIT_LEVEL_UP": 430000,
+        "ENEMY_DAMAGE": 100788.23999999996,
+        "MINT_RESOURCE_COLLECTED": 20856.145552659145,
+        "NEST_DAMAGED": 51752.265
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 0,
+          "OGN": 0,
+          "MNR": 12670.000149214226,
+          "GAS": 8186.145403444921,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 9,
+          "Refinery_Gas": 9,
+          "Refinery_Mineral": 9,
+          "Factory": 9,
+          "BolterTurret": 5,
+          "TeslaTurret": 5
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 25,
+          "MovableDepot": 16,
+          "Scorpion": 25,
+          "SpiderGatling": 5,
+          "SiegeTank": 15
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 77978.29799999995,
+          "AlienMommy": 22809.942000000006
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 51752.265
+        }
+      },
+      "position": 42,
+      "previousPosition": -1,
+      "created_at": "2023-07-19T08:12:59.685Z",
+      "walletAddress": "0x3d7f58f73359c535913a3112ab215c351e45bcfc"
+    },
+    {
+      "account_id": "2pPSMfqBGaDfTW5ycpKsYt",
+      "nickname": "Nan#5299",
+      "score": 827973.8778785139,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 300000,
+        "DID_UNIT_LEVEL_UP": 495000,
+        "ENEMY_DAMAGE": 2383.548,
+        "MINT_RESOURCE_COLLECTED": 28193.775878513952,
+        "NEST_DAMAGED": 2396.5539999999996
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 13082.108986665902,
+          "OGN": 0,
+          "MNR": 9217.500137351453,
+          "GAS": 5894.166754496595,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 14,
+          "Refinery_Gas": 14,
+          "Refinery_Mineral": 14,
+          "Factory": 9,
+          "Refinery_Pulsar": 9
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 45,
+          "PulsarWorker": 45,
+          "SpiderGatling": 7,
+          "SiegeTank": 2
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 2314.5719999999997,
+          "AlienMommy": 68.976
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 2396.5539999999996
+        }
+      },
+      "position": 43,
+      "previousPosition": -1,
+      "created_at": "2023-07-12T08:16:43.903Z",
+      "walletAddress": "0xa843056be03312a7840924dddd413c7d4f3dcb35"
+    },
+    {
+      "account_id": "Y9tKK76CGxk4LpsBfFQbrs",
+      "nickname": "matt_plsr#3589",
+      "score": 807966.0700597474,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 20000,
+        "DID_UNIT_LEVEL_UP": 40000,
+        "ENEMY_DAMAGE": 9040.290000000032,
+        "MINT_RESOURCE_COLLECTED": 735906.8850597474,
+        "NEST_DAMAGED": 3018.894999999974
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 708785.75,
+          "OGN": 0,
+          "MNR": 9420.000134224938,
+          "GAS": 17701.13492552252,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Factory": 4
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "MovableDepot": 8
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 9040.290000000032
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 3018.894999999974
+        }
+      },
+      "position": 44,
+      "previousPosition": -1,
+      "created_at": "2023-04-22T17:36:16.153Z",
+      "walletAddress": "0x16629ea6675f5a44eb87a4df6817d760a9158d1c"
+    },
+    {
+      "account_id": "T8vEPrruPZgUDYTdSTwBWT",
+      "nickname": "Faliel#8211",
+      "score": 591699.9999380748,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 215000,
+        "DID_UNIT_LEVEL_UP": 340000,
+        "MINT_RESOURCE_COLLECTED": 36699.999938074885
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 0,
+          "OGN": 0,
+          "MNR": 18899.9999687585,
+          "GAS": 17799.999969316385,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 14,
+          "Refinery_Mineral": 9,
+          "Refinery_Gas": 9,
+          "Refinery_Pulsar": 2,
+          "Factory": 9
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "PulsarWorker": 25,
+          "Worker": 25,
+          "MovableDepot": 18
+        }
+      },
+      "position": 45,
+      "previousPosition": -1,
+      "created_at": "2023-04-23T01:10:41.035Z",
+      "walletAddress": "0xa5f3ff9ee8abcb832bac9082ec9fca849c472a0b"
+    },
+    {
+      "account_id": "WpsfPbP1tM8sgSwhWJ4kQh",
+      "nickname": "FamasarQ#5745",
+      "score": 574511.754899918,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 145000,
+        "DID_UNIT_LEVEL_UP": 390000,
+        "ENEMY_DAMAGE": 2017.2550000000006,
+        "MINT_RESOURCE_COLLECTED": 35429.999899917995,
+        "NEST_DAMAGED": 2064.5000000000014
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 0,
+          "OGN": 0,
+          "MNR": 17199.999944398773,
+          "GAS": 18229.99995551922,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 9,
+          "Refinery_Gas": 5,
+          "Refinery_Mineral": 5,
+          "Refinery_Organic": 5,
+          "Factory": 5
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 25,
+          "MovableDepot": 28,
+          "PulsarWorker": 25
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 2017.2550000000006
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 2064.5000000000014
+        }
+      },
+      "position": 46,
+      "previousPosition": -1,
+      "created_at": "2023-07-18T14:13:05.043Z",
+      "walletAddress": "0x7147cd85f014d989b19ff5853215390b98c435e9"
+    },
+    {
+      "account_id": "CDReEGcvhwPm5dCeZ6pZvj",
+      "nickname": "AvaxPredat0r#4822",
+      "score": 530767.6171269992,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 170000,
+        "DID_UNIT_LEVEL_UP": 115000,
+        "ENEMY_DAMAGE": 73431.956,
+        "MINT_RESOURCE_COLLECTED": 142286.91812699914,
+        "NEST_DAMAGED": 30048.743000000002
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 0,
+          "OGN": 0,
+          "MNR": 62901.51283045481,
+          "GAS": 79385.40529654433,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Factory": 6,
+          "Refinery_Mineral": 10,
+          "Refinery_Gas": 10,
+          "Refinery_Pulsar": 8
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "SpiderGatling": 13,
+          "SiegeTank": 3,
+          "Scorpion": 7
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 59237.02199999998,
+          "AlienMommy": 14194.934000000021
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 30048.743000000002
+        }
+      },
+      "position": 47,
+      "previousPosition": -1,
+      "created_at": "2023-04-17T01:05:13.041Z",
+      "walletAddress": "0x3aac2d9672cd0e080bf5e770fef9d2fc4e237865"
+    },
+    {
+      "account_id": "Cav94tVkdUAwqSLfVdcbf4",
+      "nickname": "dub#4478",
+      "score": 524076.6000607461,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 85000,
+        "DID_UNIT_LEVEL_UP": 435000,
+        "MINT_RESOURCE_COLLECTED": 4076.600060746073
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 0,
+          "OGN": 0,
+          "MNR": 1432.7000213488934,
+          "GAS": 2643.9000393971796,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Refinery_Organic": 9,
+          "Mothership": 4,
+          "Factory": 4
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 45,
+          "PulsarWorker": 33,
+          "MovableDepot": 9
+        }
+      },
+      "position": 48,
+      "previousPosition": -1,
+      "created_at": "2023-04-17T01:37:39.399Z",
+      "walletAddress": "0xaaa17208f95e0a5bc44c40a583d45d4dbc275e43"
+    },
+    {
+      "account_id": "CJ3WBfmPq9AjGCoUV96JVC",
+      "nickname": "Rakien#0724",
+      "score": 454061.6670542644,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 40000,
+        "DID_UNIT_LEVEL_UP": 365000,
+        "MINT_RESOURCE_COLLECTED": 49061.667054264384
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 0,
+          "OGN": 0,
+          "MNR": 29470.000095659143,
+          "GAS": 19591.666958605245,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 2,
+          "Refinery_Gas": 2,
+          "Refinery_Mineral": 2,
+          "Factory": 2
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "MovableDepot": 23,
+          "Worker": 25,
+          "PulsarWorker": 25
+        }
+      },
+      "position": 49,
+      "previousPosition": -1,
+      "created_at": "2023-07-19T01:51:33.485Z",
+      "walletAddress": "0xc53d556d264cb089460fb7b882175b3da3859abd"
+    },
+    {
+      "account_id": "YFctgSFwaGsdgWp4JqqxiF",
+      "nickname": "Viperxl007#3088",
+      "score": 229365.40022013665,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 40000,
+        "DID_UNIT_LEVEL_UP": 165000,
+        "MINT_RESOURCE_COLLECTED": 24365.400220136653
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 0,
+          "OGN": 0,
+          "MNR": 9056.033361077021,
+          "GAS": 15309.366859059632,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 2,
+          "Refinery_Gas": 2,
+          "Refinery_Mineral": 2,
+          "Factory": 2
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "PulsarWorker": 8,
+          "Worker": 25
+        }
+      },
+      "position": 50,
+      "previousPosition": -1,
+      "created_at": "2023-07-19T19:12:06.108Z",
+      "walletAddress": "0x107f8778af1302676bf2e58ea124b99fc12e4c11"
+    },
+    {
+      "account_id": "9G4AnFrhkKtZnGp99J2KSk",
+      "nickname": "Stokesjl#2394",
+      "score": 226600.00002384186,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 50000,
+        "DID_UNIT_LEVEL_UP": 175000,
+        "MINT_RESOURCE_COLLECTED": 1600.0000238418575
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 0,
+          "OGN": 0,
+          "MNR": 575.0000085681676,
+          "GAS": 1025.00001527369,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 4,
+          "Refinery_Gas": 2,
+          "Refinery_Mineral": 2,
+          "Factory": 2
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 35
+        }
+      },
+      "position": 51,
+      "previousPosition": -1,
+      "created_at": "2023-07-21T10:03:29.819Z",
+      "walletAddress": "0xfe31d6321beed35e73ebc61438e0e16c34177482"
+    },
+    {
+      "account_id": "5LPZsX7nPGYoBzKbeKXSav",
+      "nickname": "JALLDIGITAL#7989",
+      "score": 103906.88430413711,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 95000,
+        "MINT_RESOURCE_COLLECTED": 8906.884304137122
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 4010.7175645118878,
+          "OGN": 0,
+          "MNR": 4396.1667321746545,
+          "GAS": 500.0000074505805,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Refinery_Mineral": 9,
+          "Refinery_Gas": 10
+        }
+      },
+      "position": 52,
+      "previousPosition": -1,
+      "created_at": "2023-04-13T18:42:54.435Z",
+      "walletAddress": "0x65a2aef484fe55b11e2c63c0a9b55f93ad499a08"
+    },
+    {
+      "account_id": "Xzn7W9vRcanM8qcGteFWjR",
+      "nickname": "aykutfe#5950",
+      "score": 85483.2620109151,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 55000,
+        "DID_UNIT_LEVEL_UP": 20000,
+        "ENEMY_DAMAGE": 6983.0960000000005,
+        "MINT_RESOURCE_COLLECTED": 732.5000109151005,
+        "NEST_DAMAGED": 2767.6660000000024
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 0,
+          "OGN": 0,
+          "MNR": 0,
+          "GAS": 732.5000109151005,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 5,
+          "Refinery_Gas": 2,
+          "Refinery_Mineral": 2,
+          "Factory": 2
+        },
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 4
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 6471.396000000001,
+          "AlienMommy": 511.7
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 2767.6660000000024
+        }
+      },
+      "position": 53,
+      "previousPosition": -1,
+      "created_at": "2023-07-18T11:51:41.712Z",
+      "walletAddress": "0x107723dd444ddb250bd56d717733a2f69485b7b7"
+    },
+    {
+      "account_id": "ur3Eueyejsrt5YYbaNRAo",
+      "nickname": "AJ Martin#0468",
+      "score": 82275.594,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 80000,
+        "ENEMY_DAMAGE": 2275.594
+      },
+      "resource_amounts": {},
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "BolterTurret": 16
+        },
+        "ENEMY_DAMAGE": {
+          "Alien": 2275.594
+        }
+      },
+      "position": 54,
+      "previousPosition": -1,
+      "created_at": "2023-04-11T20:10:07.953Z",
+      "walletAddress": "0xf1a6d3c38f27954b82b6f797aa9df3b374eab05a"
+    },
+    {
+      "account_id": "UyFS9eEBJ2TwMz7csLigxk",
+      "nickname": "Moon#4853",
+      "score": 42000.00000089407,
+      "scores": {
+        "DID_STRUCTURE_LEVEL_UP": 40000,
+        "MINT_RESOURCE_COLLECTED": 2000.0000008940692
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 0,
+          "OGN": 0,
+          "MNR": 1000.0000001490114,
+          "GAS": 1000.0000007450578,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_STRUCTURE_LEVEL_UP": {
+          "Mothership": 2,
+          "Refinery_Gas": 2,
+          "Refinery_Mineral": 2,
+          "Factory": 2
+        }
+      },
+      "position": 55,
+      "previousPosition": -1,
+      "created_at": "2023-04-11T09:51:01.235Z",
+      "walletAddress": "0x936eb5aa7d47c8cf42833c2d771042613c68c7be"
+    },
+    {
+      "account_id": "AwEgf2nnUjqrLVmgV6G1NF",
+      "nickname": "Don_Wonton#7150",
+      "score": 30485.000007227063,
+      "scores": {
+        "DID_UNIT_LEVEL_UP": 30000,
+        "MINT_RESOURCE_COLLECTED": 485.00000722706307
+      },
+      "resource_amounts": {
+        "MINT_RESOURCE_COLLECTED": {
+          "PLSR": 0,
+          "OGN": 0,
+          "MNR": 0,
+          "GAS": 485.00000722706307,
+          "UPLSR": 0,
+          "UOGN": 0,
+          "UMNR": 0,
+          "UGAS": 0
+        }
+      },
+      "data_info": {
+        "DID_UNIT_LEVEL_UP": {
+          "Worker": 6
+        }
+      },
+      "position": 56,
+      "previousPosition": -1,
+      "created_at": "2023-07-19T20:56:59.781Z",
+      "walletAddress": "0xfd1eaf63ea18bfc0747031af2a28bee62a321f57"
+    },
+    {
+      "account_id": "YJw5jqZdE1qUdhRhnWZTCu",
+      "nickname": "RO2077#6905",
+      "score": 14296.612000000006,
+      "scores": {
+        "ENEMY_DAMAGE": 10038.712000000001,
+        "NEST_DAMAGED": 4257.900000000005
+      },
+      "resource_amounts": {},
+      "data_info": {
+        "ENEMY_DAMAGE": {
+          "Alien": 9242.391,
+          "AlienMommy": 796.3210000000016
+        },
+        "NEST_DAMAGED": {
+          "AlienNest": 4257.900000000005
+        }
+      },
+      "position": 57,
+      "previousPosition": -1,
+      "created_at": "2023-07-21T02:06:21.196Z",
+      "walletAddress": "0x2426a5d3c69cc06c334ac51b55020ff36551bb97"
+    },
+    {
+      "account_id": "UbGhghZDvUTHyXxSmYqD1u",
+      "nickname": "cachirulo_yeye#2477",
+      "score": 684,
+      "scores": {
+        "ENEMY_DAMAGE": 684
+      },
+      "resource_amounts": {},
+      "data_info": {
+        "ENEMY_DAMAGE": {
+          "Alien": 684
+        }
+      },
+      "position": 58,
+      "previousPosition": -1,
+      "created_at": "2023-04-23T20:44:21.369Z",
+      "walletAddress": "0xde23cee1281c655b7bfd3325ac0ae977c8ea106f"
+    }
+  ],
+  "version": 1,
+  "lastUpdateTimestamp": 1693557433648,
+  "lastUpdateString": "Fri, 01 Sep 2023 08:37:13 GMT"
+}
